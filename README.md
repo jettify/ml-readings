@@ -1,7 +1,6 @@
-# PAPERS In ML And Distributed Systems
+# Readings In ML And Distributed Systems
 
 List of papers I find interesting.
-
 
 ## ML
 
@@ -12,7 +11,7 @@ List of papers I find interesting.
 
 ## Model Deployment
 
-* [Data Management Challenges in Production Machine Learning](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45a9dcf23dbdfa24dbced358f825636c58518afa.pdf) (2017) 
+* [Data Management Challenges in Production Machine Learning](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45a9dcf23dbdfa24dbced358f825636c58518afa.pdf) (2017) *Tutorial about data-management issues that arise in the context of machine learning pipelines deployed in production.*
 
 * [What’s your ML Test Score? A rubric for ML production systems](https://storage.googleapis.com/pub-tools-public-publication-data/pdf/45742.pdf) (2016) -- *Using machine learning in real-world production systems is complicated by a host of issues not found in small toy examples or even large offline research experiments. Testing and monitoring are key considerations for assessing the production-readiness of an ML system. Authors present an ML Test Score rubric based on a set of actionable tests to help quantify these issues.*
 
