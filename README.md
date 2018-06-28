@@ -18,3 +18,5 @@ List of papers I find interesting.
 * [Hidden Technical Debt in Machine Learning System](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf) (2015) -- *Authors explore several ML-specific risk factors to account for in system design. These include boundary erosion, entanglement, hidden feedback loops, undeclared consumers, data dependencies, configuration issues, changes in the external world, and a variety of system-level anti-patterns.*
 
 * [A framework for monitoring classifiers’ performance: when and why failure occurs?](https://www3.nd.edu/~nchawla/papers/KAIS09.pdf) (2009) *This article implements a comprehensive evaluation framework to proactively detect breakpoints in classifiers’ predictions and shifts in data distributions through a series of statistical tests.*
+
+* [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) *This document is intended to help those with a basic knowledge of machine learning get the benefit of best practices in machine learning from around Google.*
