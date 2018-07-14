@@ -9,7 +9,7 @@ List of papers I find interesting.
 * [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754.pdf)
 
 
-## Model Deployment
+## Machine Learning In Production
 
 * [Data Management Challenges in Production Machine Learning](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45a9dcf23dbdfa24dbced358f825636c58518afa.pdf) (2017) *Tutorial about data-management issues that arise in the context of machine learning pipelines deployed in production.*
 
@@ -20,3 +20,5 @@ List of papers I find interesting.
 * [A framework for monitoring classifiers’ performance: when and why failure occurs?](https://www3.nd.edu/~nchawla/papers/KAIS09.pdf) (2009) *This article implements a comprehensive evaluation framework to proactively detect breakpoints in classifiers’ predictions and shifts in data distributions through a series of statistical tests.*
 
 * [Rules of Machine Learning: Best Practices for ML Engineering](http://martin.zinkevich.org/rules_of_ml/rules_of_ml.pdf) *This document is intended to help those with a basic knowledge of machine learning get the benefit of best practices in machine learning from around Google.*
+
+* [The Data Linter: Lightweight, Automated Sanity Checking for ML Data Sets](http://learningsys.org/nips17/assets/papers/paper_19.pdf) *Paper introduces the data linter, ML tool that automatically inspects ML data sets to 1) identify potential issues in the data and 2) suggest potentially useful feature transforms.*
