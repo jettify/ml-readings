@@ -5,9 +5,13 @@ List of papers I find interesting.
 ## ML
 
 * [Learning from Imbalanced Data](http://www.ele.uri.edu/faculty/he/PDFfiles/ImbalancedLearning.pdf)
-* ["Why Should I Trust You?" Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf)
 * [XGBoost: A Scalable Tree Boosting System](https://arxiv.org/pdf/1603.02754.pdf)
 
+
+## Model Interpretation
+* ["Why Should I Trust You?" Explaining the Predictions of Any Classifier](https://arxiv.org/pdf/1602.04938.pdf) (2016) -- *Describes explanation technique that explains the predictions of any classifier in an in- terpretable and faithful manner, by learning an interpretable model locally around the prediction.*
+
+* [Anchors: High-Precision Model-Agnostic Explanations](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) (2018) -- *Paper inntroduces a novel model-agnostic system that explains the behavior of complex models with high-precision rules called anchor.*
 
 ## Machine Learning In Production
 
