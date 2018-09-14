@@ -13,6 +13,8 @@ List of papers I find interesting.
 
 * [Anchors: High-Precision Model-Agnostic Explanations](https://homes.cs.washington.edu/~marcotcr/aaai18.pdf) (2018) -- *Paper inntroduces a novel model-agnostic system that explains the behavior of complex models with high-precision rules called anchor.*
 
+* [A Unified Approach to Interpreting Model Predictions](http://papers.nips.cc/paper/7062-a-unified-approach-to-interpreting-model-predictions.pdf) (2017) -- *Paper shows that several methods in the literature used for explaining individual model predictions fall into the category of "additive feature attribution" methods. New kind of additive feature attribution method based on the concept of Shapely values and call the resulting explanations the SHAP values*
+
 ## Machine Learning In Production
 
 * [Data Management Challenges in Production Machine Learning](https://static.googleusercontent.com/media/research.google.com/en//pubs/archive/45a9dcf23dbdfa24dbced358f825636c58518afa.pdf) (2017) *Tutorial about data-management issues that arise in the context of machine learning pipelines deployed in production.*
